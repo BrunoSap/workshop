@@ -1,5 +1,6 @@
-# Welcome to SAP TFC BTP Workshop
-Below are all details regarding your Workshop
+# Welcome to SAP TFC Integration Suite Hands-On Workshop
+
+Below are all the details regarding your Workshop
 
 Facilitator/Instructor onsite: 
 
