@@ -1,4 +1,4 @@
-# Welcome to SAP TFC Integration Suite Hands-On Workshop
+# Welcome to SAP Integration Suite Hands-On Workshop
 
 Below are all the details regarding your Workshop
 
@@ -14,7 +14,6 @@ Landing Page URL:
 
 https://academy-journey.cfapps.eu10.hana.ondemand.com/
 
-
 Solution(s):
 
 [Shared Cloud Platform Integration](https://integration-suite-academy-prod-internal.it-cpi018.cfapps.eu10-003.hana.ondemand.com/itspaces)
@@ -29,7 +28,6 @@ Solution(s):
 
 [SAP Business Application Studio - Integration Suite](https://sap-build-hana-cloud.eu10cf.applicationstudio.cloud.sap/)
 
-
 [Shared Integration Suite](https://integration-suite-academy-prod-internal.integrationsuite.cfapps.eu10-003.hana.ondemand.com/)
 
 [SAP HANA Database Explorer](https://hana-cockpit-004.cfapps.eu10.hana.ondemand.com/hrtt/sap/hana/cst/catalog/cockpit-index.html?databaseid=C3683523)
@@ -38,16 +36,17 @@ Solution(s):
 
 [SAP S/4 HANA Cloud](https://my400139.s4hana.cloud.sap/)
 
+Amount of Users:
 
+40
 
 Usernames:
 
-AC50828U01 - AC50828U20
-
+AC53810U01 - AC53810U40
 
 Password:
 
-ObJbpqvzxt1!
+ObumwCKLSj1!
 
 
 
