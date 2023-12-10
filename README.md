@@ -1,4 +1,4 @@
-# Welcome to SAP Integration Suite Hands-On Workshop
+# Welcome to SAP Workshop
 
 Below are all the details regarding your Workshop
 
@@ -10,9 +10,22 @@ bruno.ricciardi@sap.com
 
 
 
+
+Data center region:us10
+
+Request Status:
+
+Processing
+
+Planned workshop date:
+
+Start: 12/10/2023
+
+End: 12/30/2023
+
 Landing Page URL:
 
-https://academy-journey.cfapps.eu10.hana.ondemand.com/
+[https://academy-journey.cfapps.eu10.hana.ondemand.com/](https://academy-journey.cfapps.eu10.hana.ondemand.com/)
 
 Solution(s):
 
@@ -30,23 +43,22 @@ Solution(s):
 
 [Shared Integration Suite](https://integration-suite-academy-prod-internal.integrationsuite.cfapps.eu10-003.hana.ondemand.com/)
 
+[SAP Build Lobby](https://sap-build-academy-prod-internal.eu10.build.cloud.sap/lobby)
+
+[SAP Business Application Studio](https://sap-build-hana-cloud.eu10cf.applicationstudio.cloud.sap/)
+
 [SAP HANA Database Explorer](https://hana-cockpit-004.cfapps.eu10.hana.ondemand.com/hrtt/sap/hana/cst/catalog/cockpit-index.html?databaseid=C3683523)
 
 [SAP Business Application Studio](https://sap-build-hana-cloud.eu10cf.applicationstudio.cloud.sap/index.html)
 
-[SAP S/4 HANA Cloud](https://my400139.s4hana.cloud.sap/)
+Amount of Users:30
 
-Amount of Users:
+Usernames:AC68960U01 - AC68960U30
 
-40
+Password:ObwjqkmJy11!
 
-Usernames:
+Select Academies
 
-AC53810U01 - AC53810U40
-
-Password:
-
-ObumwCKLSj1!
-
-
+- SAP Integration Suite
+- SAP Build Apps - Create a Sales Order App
 
