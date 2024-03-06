@@ -19,15 +19,19 @@ Processing
 
 Planned workshop date:
 
-Start: 12/10/2023
+Start: 3/5/2024
 
-End: 12/30/2023
+End: 3/26/2024
 
 Landing Page URL:
 
 [https://academy-journey.cfapps.eu10.hana.ondemand.com/](https://academy-journey.cfapps.eu10.hana.ondemand.com/)
 
 Solution(s):
+
+[SAP HANA Database Explorer](https://hana-cockpit-004.cfapps.eu10.hana.ondemand.com/hrtt/sap/hana/cst/catalog/cockpit-index.html?databaseid=C3683523)
+
+[SAP Business Application Studio](https://sap-build-hana-cloud.eu10cf.applicationstudio.cloud.sap/index.html)
 
 [Shared Cloud Platform Integration](https://integration-suite-academy-prod-internal.it-cpi018.cfapps.eu10-003.hana.ondemand.com/itspaces)
 
@@ -43,22 +47,20 @@ Solution(s):
 
 [Shared Integration Suite](https://integration-suite-academy-prod-internal.integrationsuite.cfapps.eu10-003.hana.ondemand.com/)
 
-[SAP Build Lobby](https://sap-build-academy-prod-internal.eu10.build.cloud.sap/lobby)
+[Business Application Studio](https://ac80645-eu10.eu10cf.applicationstudio.cloud.sap/)
 
-[SAP Business Application Studio](https://sap-build-hana-cloud.eu10cf.applicationstudio.cloud.sap/)
+[Mobile Service Cockpit](https://mobile-service-cockpit-web.cfapps.eu10.hana.ondemand.com/cockpit/v1/org/SE_Technical_Academy_ac80645-eu10/space/dev/index.html#/page.apps.overview/mobile-services)
 
-[SAP HANA Database Explorer](https://hana-cockpit-004.cfapps.eu10.hana.ondemand.com/hrtt/sap/hana/cst/catalog/cockpit-index.html?databaseid=C3683523)
+[SAP S/4 HANA Cloud](https://my400139.s4hana.cloud.sap/)
 
-[SAP Business Application Studio](https://sap-build-hana-cloud.eu10cf.applicationstudio.cloud.sap/index.html)
+Amount of Users:20
 
-Amount of Users:30
+Usernames:AC80645U01 - AC80645U20
 
-Usernames:AC68960U01 - AC68960U30
-
-Password:ObwjqkmJy11!
+Password:ObhERlO2j11!
 
 Select Academies
 
 - SAP Integration Suite
-- SAP Build Apps - Create a Sales Order App
+- Full-Stack Application Development using SAP Business Technology Platform (BTP)
 
