@@ -6,25 +6,6 @@ Facilitator/Instructor remote/onsite:
 Bruno Ricciardi
 
 
-# Workshop Information
-
-Registration Form:
-
-Description:
-
-DFA Part 2
-
-Customer name(s):
-
-DFA Part 2
-
-Opportunity Number
-
-Data center region:us10
-
-Request Status:
-
-Environment Ready
 
 Planned workshop date:
 
