@@ -7,11 +7,23 @@ Bruno Ricciardi
 
 
 
+Customer name(s):
+
+Mosaic SBPA Workshop
+
+Opportunity Number
+
+Data center region:us10
+
+Request Status:
+
+Environment Ready
+
 Planned workshop date:
 
-Start: 9/16/2024
+Start: 10/7/2024
 
-End: 10/7/2024
+End: 10/28/2024
 
 Landing Page URL:
 
@@ -25,15 +37,14 @@ Solution(s):
 
 [SAP Business Application Studio](https://sap-build-hana-cloud.eu10cf.applicationstudio.cloud.sap/)
 
-[SAP Build Lobby](https://sap-build-code-us10.us10.build.cloud.sap/lobby)
-
 Amount of Users:30
 
-Usernames:AC116902U01 - AC116902U30
+Usernames:AC121680U01 - AC121680U30
 
-Password:ObGDHbT8SG1!
+Password:Obd5qPSYtf1!
 
 Select Academies
 
-- SAP Build Code – Generative AI-powered development with Joule copilot
-- Experience SAP Build in Action – End-to-End
+- SAP Build Process Automation - Create a Sales Order Process
+
+Comments:
