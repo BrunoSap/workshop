@@ -18,8 +18,6 @@ Build Apps Lobby
 
 SAP Business Application Studio
 
-Amount of Users:80
+Users (username | password):
 
-Usernames:AC215961U01 - AC215961U80
-
-Password:ObV7fnQYoZ1!
+AC375867UXX | Obt9K4DC5V1!
